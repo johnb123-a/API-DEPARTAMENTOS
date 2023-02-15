@@ -6408,7 +6408,7 @@
         {
             "region": "Region Caribe",
             "c_digo_dane_del_departamento": "88",
-            "departamento": "Archipielago de San Andres, Providencia y Santa Catalina",
+            "departamento": "San-Andres",
             "c_digo_dane_del_municipio": "88.564",
             "municipio": "Providencia"
         },
@@ -6639,7 +6639,7 @@
         {
             "region": "Region Caribe",
             "c_digo_dane_del_departamento": "88",
-            "departamento": "Archipielago de San Andres, Providencia y Santa Catalina",
+            "departamento": "San-Andres",
             "c_digo_dane_del_municipio": "88.001",
             "municipio": "San Andrés"
         },
@@ -6674,7 +6674,7 @@
         {
             "region": "Region Centro Oriente",
             "c_digo_dane_del_departamento": "11",
-            "departamento": "Bogota D.C.",
+            "departamento": "Bogota-D.C.",
             "c_digo_dane_del_municipio": "11.001",
             "municipio": "Bogotá D.C."
         },
@@ -6828,175 +6828,175 @@
         {
             "region": "Region Centro Oriente",
             "c_digo_dane_del_departamento": "54",
-            "departamento": "Norte de Santander",
+            "departamento": "Norte-Santander",
             "c_digo_dane_del_municipio": "54.743",
             "municipio": "Silos"
         },
         {
             "region": "Region Centro Oriente",
             "c_digo_dane_del_departamento": "54",
-            "departamento": "Norte de Santander",
+            "departamento": "Norte-Santander",
             "c_digo_dane_del_municipio": "54.125",
             "municipio": "Cácota"
         },
         {
             "region": "Region Pacifico",
             "c_digo_dane_del_departamento": "76",
-            "departamento": "Valle del Cauca",
+            "departamento": "Valle-Cauca",
             "c_digo_dane_del_municipio": "76.25",
             "municipio": "El Dovio"
         },
         {
             "region": "Region Centro Oriente",
             "c_digo_dane_del_departamento": "54",
-            "departamento": "Norte de Santander",
+            "departamento": "Norte-Santander",
             "c_digo_dane_del_municipio": "54.82",
             "municipio": "Toledo"
         },
         {
             "region": "Region Pacifico",
             "c_digo_dane_del_departamento": "76",
-            "departamento": "Valle del Cauca",
+            "departamento": "Valle-Cauca",
             "c_digo_dane_del_municipio": "76.622",
             "municipio": "Roldanillo"
         },
         {
             "region": "Region Centro Oriente",
             "c_digo_dane_del_departamento": "54",
-            "departamento": "Norte de Santander",
+            "departamento": "Norte-Santander",
             "c_digo_dane_del_municipio": "54.48",
             "municipio": "Mutiscua"
         },
         {
             "region": "Region Pacifico",
             "c_digo_dane_del_departamento": "76",
-            "departamento": "Valle del Cauca",
+            "departamento": "Valle-Cauca",
             "c_digo_dane_del_municipio": "76.054",
             "municipio": "Argelia"
         },
         {
             "region": "Region Centro Oriente",
             "c_digo_dane_del_departamento": "54",
-            "departamento": "Norte de Santander",
+            "departamento": "Norte-Santander",
             "c_digo_dane_del_municipio": "54.261",
             "municipio": "El Zulia"
         },
         {
             "region": "Region Centro Oriente",
             "c_digo_dane_del_departamento": "54",
-            "departamento": "Norte de Santander",
+            "departamento": "Norte-Santander",
             "c_digo_dane_del_municipio": "54.66",
             "municipio": "Salazar"
         },
         {
             "region": "Region Pacifico",
             "c_digo_dane_del_departamento": "76",
-            "departamento": "Valle del Cauca",
+            "departamento": "Valle-Cauca",
             "c_digo_dane_del_municipio": "76.736",
             "municipio": "Sevilla"
         },
         {
             "region": "Region Pacifico",
             "c_digo_dane_del_departamento": "76",
-            "departamento": "Valle del Cauca",
+            "departamento": "Valle-Cauca",
             "c_digo_dane_del_municipio": "76.895",
             "municipio": "Zarzal"
         },
         {
             "region": "Region Centro Oriente",
             "c_digo_dane_del_departamento": "54",
-            "departamento": "Norte de Santander",
+            "departamento": "Norte-Santander",
             "c_digo_dane_del_municipio": "54.223",
             "municipio": "Cucutilla"
         },
         {
             "region": "Region Pacifico",
             "c_digo_dane_del_departamento": "76",
-            "departamento": "Valle del Cauca",
+            "departamento": "Valle-Cauca",
             "c_digo_dane_del_municipio": "76.248",
             "municipio": "El Cerrito"
         },
         {
             "region": "Region Pacifico",
             "c_digo_dane_del_departamento": "76",
-            "departamento": "Valle del Cauca",
+            "departamento": "Valle-Cauca",
             "c_digo_dane_del_municipio": "76.147",
             "municipio": "Cartago"
         },
         {
             "region": "Region Pacifico",
             "c_digo_dane_del_departamento": "76",
-            "departamento": "Valle del Cauca",
+            "departamento": "Valle-Cauca",
             "c_digo_dane_del_municipio": "76.122",
             "municipio": "Caicedonia"
         },
         {
             "region": "Region Centro Oriente",
             "c_digo_dane_del_departamento": "54",
-            "departamento": "Norte de Santander",
+            "departamento": "Norte-Santander",
             "c_digo_dane_del_municipio": "54.553",
             "municipio": "Puerto Santander"
         },
         {
             "region": "Region Centro Oriente",
             "c_digo_dane_del_departamento": "54",
-            "departamento": "Norte de Santander",
+            "departamento": "Norte-Santander",
             "c_digo_dane_del_municipio": "54.313",
             "municipio": "Gramalote"
         },
         {
             "region": "Region Pacifico",
             "c_digo_dane_del_departamento": "76",
-            "departamento": "Valle del Cauca",
+            "departamento": "Valle-Cauca",
             "c_digo_dane_del_municipio": "76.246",
             "municipio": "El Cairo"
         },
         {
             "region": "Region Centro Oriente",
             "c_digo_dane_del_departamento": "54",
-            "departamento": "Norte de Santander",
+            "departamento": "Norte-Santander",
             "c_digo_dane_del_municipio": "54.25",
             "municipio": "El Tarra"
         },
         {
             "region": "Region Pacifico",
             "c_digo_dane_del_departamento": "76",
-            "departamento": "Valle del Cauca",
+            "departamento": "Valle-Cauca",
             "c_digo_dane_del_municipio": "76.4",
             "municipio": "La Unión"
         },
         {
             "region": "Region Pacifico",
             "c_digo_dane_del_departamento": "76",
-            "departamento": "Valle del Cauca",
+            "departamento": "Valle-Cauca",
             "c_digo_dane_del_municipio": "76.606",
             "municipio": "Restrepo"
         },
         {
             "region": "Region Centro Oriente",
             "c_digo_dane_del_departamento": "54",
-            "departamento": "Norte de Santander",
+            "departamento": "Norte-Santander",
             "c_digo_dane_del_municipio": "54.8",
             "municipio": "Teorama"
         },
         {
             "region": "Region Pacifico",
             "c_digo_dane_del_departamento": "76",
-            "departamento": "Valle del Cauca",
+            "departamento": "Valle-Cauca",
             "c_digo_dane_del_municipio": "76.233",
             "municipio": "Dagua"
         },
         {
             "region": "Region Centro Oriente",
             "c_digo_dane_del_departamento": "54",
-            "departamento": "Norte de Santander",
+            "departamento": "Norte-Santander",
             "c_digo_dane_del_municipio": "54.051",
             "municipio": "Arboledas"
         },
         {
             "region": "Region Pacifico",
             "c_digo_dane_del_departamento": "76",
-            "departamento": "Valle del Cauca",
+            "departamento": "Valle-Cauca",
             "c_digo_dane_del_municipio": "76.318",
             "municipio": "Guacarí"
         }
